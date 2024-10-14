@@ -12,3 +12,4 @@ npm run dev
 
 resources:
 https://jsonplaceholder.typicode.com/
+
